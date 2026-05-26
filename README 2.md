@@ -51,4 +51,3 @@ Folder - 14- run - thses store the run time data within in run folder
 Folder - 15- etc- in linux all system configuration files of linux are stored in etc folder. (m ost imp files of the linux system)
 [root@Abhi:/# echo $PATH
 /usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin] when we see command not found so this is the path where ls commands works.
-
